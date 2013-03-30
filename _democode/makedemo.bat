@@ -1,0 +1,1 @@
+..\_bin\neshla "E:\sf\neshla\source\_democode\game.as" -o "E:\sf\neshla\source\_democode\bin" -listvars -listfuncs -listbanks -listsrc
